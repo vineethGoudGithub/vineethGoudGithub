@@ -12,7 +12,7 @@ Passionate about building scalable, responsive, and user-friendly web applicatio
 
 <ul>
   <li>💻 Full Stack Developer</li>
-  <li>🌱 Learning advanced backend and cloud technologies</li>
+  <li>🌱  advanced backend and cloud technologies</li>
   <li>⚡ Skilled in Java, Spring Boot, React.js, Next.js, and MongoDB</li>
   <li>🛒 Building real-world full stack applications</li>
   <li>📚 Passionate about problem solving and continuous learning</li>
