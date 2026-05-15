@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thallapally Vineeth</h1>
 
-<h3 align="center">Full Stack Java Developer | Java & Spring Boot Enthusiast</h3>
+<h3 align="center">Full Stack Java Developer | Java & Spring Boot </h3>
 
 <p align="center">
 Passionate about building scalable, responsive, and user-friendly web applications.
