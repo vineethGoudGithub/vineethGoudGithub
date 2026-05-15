@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Java Developer | Java & Spring Boot </h3>
 
 <p align="center">
-Passionate about building scalable, responsive, and user-friendly web applications.
+ building scalable, responsive, and user-friendly web applications.
 </p>
 
 ---
