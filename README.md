@@ -70,12 +70,10 @@ Passionate about building scalable, responsive, and user-friendly web applicatio
 <h2>📫 Connect With Me</h2>
 
 <p>
-📧 Email: your-email@gmail.com
+📧 Email: vineethgoudvgs789@gmail.com
 </p>
 
-<p>
-💼 LinkedIn: Add Your LinkedIn Profile
-</p>
+
 
 ---
 
